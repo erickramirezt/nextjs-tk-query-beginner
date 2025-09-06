@@ -6,7 +6,8 @@ export const patterns = [
   },
   {
     id: 2,
-    name: 'Pattern 2',
+    name: 'Custom Queries',
+    href: 'custom-queries',
   },
   {
     id: 3,
