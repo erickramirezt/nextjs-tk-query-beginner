@@ -14,4 +14,9 @@ export const patterns = [
     name: 'Parameterized Queries',
     href: 'parameterized-queries',
   },
+  {
+    id: 4,
+    name: 'Query Key Factories',
+    href: 'query-key-factories',
+  },
 ]
